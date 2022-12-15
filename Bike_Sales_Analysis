@@ -1,2 +1,14 @@
 We analyze the analysis of bike sales in the Excel EDA (Exploratory Data Analysis) technique.
 Excel Project Dataset.xlsx -This file is using for this analysis
+1. Opened Dataset in excel 
+2. first step is to remove duplicates data--> remove duplicates
+3. Then replaced values ctl+h in tab find and replace
+4. replaced letter into word in marital status and gender
+5. Added new column Age Bracket for classifying ages into adolescent,middle age,old
+6. classfication of ages helps to analyse data easily
+7. ages are classified using nested if
+8. Pivot table created in new sheet
+9. added pivot fields
+10. Added charts from inserts
+11. Added axis elements
+12. Created Dashboard
